@@ -3,6 +3,12 @@ body {
 }
 
 h1 {
+  background-color: black;
   color: navy;
   margin-left: 20px;
+}
+
+p {
+  background-color: green;
+  color: brown;
 }
